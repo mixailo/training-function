@@ -1,3 +1,3 @@
-module training-add
+module training-function
 
 go 1.22
