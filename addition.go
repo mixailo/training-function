@@ -1,4 +1,4 @@
-package training_function
+package training_add
 
 func Add(a, b int) int {
 	return a + b
